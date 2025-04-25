@@ -17,3 +17,30 @@ Design and develop a Power BI dashboard that visualizes key metrics and trends r
 Provide actionable insights that empower hospital leadership to make informed, data-backed decisions.
 
 Enhance financial transparency, improve resource management, and increase operational efficiency across departments.
+
+## METHODOLOGY
+### Data Cleaning and Integration
+This process involves identifying and correcting
+inconsistencies, missing/null values, and
+duplicates within the data set. 
+
+### Data Modeling
+This involve establishing a logical structure for the
+hospital’s data. The model defined the relationships
+between different data points, allowing for efficient
+querying and analysis.
+
+### DAX Calculation and Dashboard Building
+DAX calculations were created to Analyze Key
+performance Indicators (KPIs). The dashboard will
+provide real insights into the hospital’s performance.
+
+## MODELLING
+The data modeling for this project follows a star schema approach, where the Fact Table (containing hospital transactions) is connected to multiple Dimension Tables ( Doctors, Patients, Procedures, Locations, and Calendar) to ensure efficient analysis. 
+By establishing correct one-to-many relationships, I ensured KPIs could be easily analyzed across specialties, locations, and periods, providing a flexible and powerful analytical basis and actionable insights for hospital management.
+
+
+
+  
+
+
