@@ -61,4 +61,9 @@ By establishing correct one-to-many relationships, I ensured KPIs could be easil
 
 
 
+![Screenshot 2025-04-30 174111](https://github.com/user-attachments/assets/fd482c6c-3959-4e3c-9922-2539e1c5fd8e)
+
+- Dermatology ($39K) and Radiology ($37K) are the highest revenue-generating categories, followed closely by Paediatrics and Orthopaedics. General Medicine and Dentistry provided the least, at $21K and $22K, respectively. This distribution demonstrates a higher financial performance in specialised care services.
+
+  
 
