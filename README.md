@@ -50,9 +50,15 @@ By establishing correct one-to-many relationships, I ensured KPIs could be easil
 
   ### Data Analysis
   Line Chart
-  
+
+  - The chart depicts quarterly patient visits during a three-year period. Visits remained constant at 18 per quarter until 2021, peaked at 36 in Q4 2022, and dropped significantly to 8 in Q3 2023. This pattern predicts a considerable increase in patient participation in 2022, followed by a steep drop in 2023, showing that operational or external issues influence patient turnout.
 
   
+
+  ![Screenshot 2025-04-30 173944](https://github.com/user-attachments/assets/25394754-fa09-4c09-95db-5a0b957b11b7)
+
+  - Revenue increased steadily from $21K in Q1 2021 to a high of $44K in Q4 2022, indicating solid business performance. However, a substantial reduction occurred in 2023, decreasing to $9K by the third quarter, indicating a major slump that may necessitate more inquiry into market or operational issues.
+
 
 
 
