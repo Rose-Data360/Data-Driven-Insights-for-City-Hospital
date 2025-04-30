@@ -41,6 +41,18 @@ By establishing correct one-to-many relationships, I ensured KPIs could be easil
 
 
 
+  ![Screenshot 2025-04-25 205308](https://github.com/user-attachments/assets/a8ef39c2-3908-4917-889d-7b75055e03be)
+
+  ## VISUALIZATION
+-  Line Chart
+ 
+-  Bar Chart
+
+  ### Data Analysis
+  Line Chart
   
+
+  
+
 
 
