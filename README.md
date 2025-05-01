@@ -63,7 +63,17 @@ By establishing correct one-to-many relationships, I ensured KPIs could be easil
 
 ![Screenshot 2025-04-30 174111](https://github.com/user-attachments/assets/fd482c6c-3959-4e3c-9922-2539e1c5fd8e)
 
+Bar Chart
+
 - Dermatology ($39K) and Radiology ($37K) are the highest revenue-generating categories, followed closely by Paediatrics and Orthopaedics. General Medicine and Dentistry provided the least, at $21K and $22K, respectively. This distribution demonstrates a higher financial performance in specialised care services.
 
   
+
+![Screenshot 2025-04-30 180618](https://github.com/user-attachments/assets/5949abcd-cff6-4feb-a582-2bab602bffac)
+
+- Dermatologists generated the highest revenue at $68, indicating strong specialized skin care services performance.
+ Cardiologists and Neurologists followed closely with $61K and $59K, highlighting their significant roles in high-revenue medical care.
+ In contrast, Pediatricians earned the lowest at $24K, suggesting less revenue generation in child healthcare services.
+
+
 
