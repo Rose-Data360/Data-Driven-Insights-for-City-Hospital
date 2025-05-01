@@ -83,3 +83,19 @@ Bar Chart
  HarperYoung contributed the highest patient-related revenue, $ 17K, followed by Ethan Long ($15K) and Mia Wilson ($13K).
  High-value patients may reflect frequent visits, specialized treatments, or complex care plans.
 
+
+
+![Screenshot 2025-04-30 180820](https://github.com/user-attachments/assets/2d540f2e-2653-4dd9-9f8c-58d028f1f116)
+
+## DASHBOARD
+
+
+
+![Screenshot 2025-04-17 122603](https://github.com/user-attachments/assets/8f1cc266-69ce-4a48-9d5f-6cf30fe94e80)
+
+
+
+![Screenshot 2025-04-17 122526](https://github.com/user-attachments/assets/e6a21831-5931-483e-b540-6ca7d8f1d859)
+
+## RECOMMENDATION
+1. (** Optimise underperforming specialities and procedures 
