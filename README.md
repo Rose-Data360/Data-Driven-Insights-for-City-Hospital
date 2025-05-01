@@ -77,3 +77,9 @@ Bar Chart
 
 
 
+![Screenshot 2025-04-30 180717](https://github.com/user-attachments/assets/a5e9c63c-851c-4208-a3a5-7288b2beceeb)
+- Dr. Ava Adams was the top revenue-contributing doctor with $25K, followed by Liam Turner ($20K) and Benjamin Lee ($16K).
+ The variation in revenue across doctors suggests opportunities for performance review and optimization.
+ HarperYoung contributed the highest patient-related revenue, $ 17K, followed by Ethan Long ($15K) and Mia Wilson ($13K).
+ High-value patients may reflect frequent visits, specialized treatments, or complex care plans.
+
