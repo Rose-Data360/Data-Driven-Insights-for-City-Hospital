@@ -98,4 +98,22 @@ Bar Chart
 ![Screenshot 2025-04-17 122526](https://github.com/user-attachments/assets/e6a21831-5931-483e-b540-6ca7d8f1d859)
 
 ## RECOMMENDATION
-1. (** Optimise underperforming specialities and procedures 
+
+- **Optimise underperforming specialities and procedures**:
+Redirect resources from low-profit procedures and specialities to high-performing ones. Consider targeted promotions or training in underutilised regions to boost efficiency and profits.
+
+- **Improve the checkout and billing processes**:
+Delays and inefficiencies in billing could be contributing to incomplete transactions. Streamlining the checkout process may reduce drop-offs and increase overall conversion rates
+
+- **Monitor and reduce operational costs**:
+Regularly monitor expenses by method to discover high-cost regions. Implement cost-cutting strategies in areas where profit margins are regularly poor.
+
+- **Retain High Performing Staff**: Recognise and retain top revenue generating doctors by offering performance incentives and leadership possibilities. Their accomplishment can serve as an example for others.
+
+- **Enhance Patient Engagement with Personalisation**:
+Use past patient data to recommend relevant operations or follow-ups, resulting in higher care quality and revenue from recurrent visits.
+
+## THANK YOU
+
+For more details, please contact me at
+
