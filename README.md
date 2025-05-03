@@ -117,3 +117,9 @@ Use past patient data to recommend relevant operations or follow-ups, resulting 
 
 For more details, please contact me at
 
+
+
+
+
+
+![SQL Excel PowerBI Python DataVisualization DataCleaning Dashboarding Reporting DAX DataModeling BusinessIntelligence ETL CommunicationSkills ProblemSolving CriticalThinking Tableau Statistics Forecasting Insights DataDrive](https://github.com/user-attachments/assets/11bae278-61db-4688-b575-6c0193cc6883)
